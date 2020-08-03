@@ -1,4 +1,4 @@
 export const actionNameList = {
-    addTodo:'ADD_TODO',
-    deleteTodo: 'DELETE_TODO',
-}
+  addTodo: "ADD_TODO",
+  deleteTodo: "DELETE_TODO"
+};
